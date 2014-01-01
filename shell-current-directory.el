@@ -138,5 +138,5 @@ This is hopefully a shell one - this is a q/d heuristic."
 
 (provide 'shell-current-directory)
 
-;;; shell-current-directory ends here.
+;;; shell-current-directory.el ends here.
 
