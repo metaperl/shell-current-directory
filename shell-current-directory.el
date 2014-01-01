@@ -3,9 +3,6 @@
 ;; Copyrght (C) 2001-2007 Daniel Polani
 
 ;; Author: Daniel Polani
-;; Fixes/Improvements: Terrence Brannon, Andreas Politz, Michael Albinus
-;; Submitted by Terrence Brannon <metaperl@gmail.com>
-;; Created: 24 Sep 2007
 ;; Version: 0.1
 ;; Keywords: shell, comint
 
